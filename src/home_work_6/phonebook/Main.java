@@ -10,6 +10,7 @@ public class Main {
         book.addContact("Лариса", 333);
         book.addContact("Лариса", 652347);
         book.addContact("Иван", 737);
+        book.addContact("Иван", 7337);
         book.addContact("Евгений", 85537);
         book.addContact("Евгений", 455447);
 
